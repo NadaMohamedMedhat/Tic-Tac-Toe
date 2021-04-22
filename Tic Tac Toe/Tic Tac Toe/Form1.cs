@@ -196,6 +196,10 @@ namespace Tic_Tac_Toe
                     score_O.Text = Convert.ToString(plus_one + 1);
                 enable_false();
             }
+            //*******************************((No_Win))********************************************
+            if (button1.Text != "" && button2.Text != "" && button3.Text != ""
+                && button4.Text != "" && button5.Text != "" && button6.Text != ""
+                && button7.Text != "" && button8.Text != "" && button9.Text != "") MessageBox.Show(" No Player Win!");
             }
             
         public Form1()

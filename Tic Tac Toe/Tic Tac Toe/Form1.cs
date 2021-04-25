@@ -120,7 +120,7 @@ namespace Tic_Tac_Toe
                     button2.BackColor = Color.PowderBlue;
                     button3.BackColor = Color.PowderBlue;
                     MessageBox.Show(" The Winner Is Player O");
-                    plus_one = int.Parse(score_X.Text);
+                    plus_one = int.Parse(score_O.Text);
                     score_O.Text = Convert.ToString(plus_one + 1);
                 enable_false();
             }
@@ -130,7 +130,7 @@ namespace Tic_Tac_Toe
                     button5.BackColor = Color.PowderBlue;
                     button6.BackColor = Color.PowderBlue;
                     MessageBox.Show(" The Winner Is Player O");
-                    plus_one = int.Parse(score_X.Text);
+                    plus_one = int.Parse(score_O.Text);
                     score_O.Text = Convert.ToString(plus_one + 1);
                 enable_false();
             }
@@ -140,7 +140,7 @@ namespace Tic_Tac_Toe
                     button8.BackColor = Color.PowderBlue;
                     button9.BackColor = Color.PowderBlue;
                     MessageBox.Show(" The Winner Is Player O");
-                    plus_one = int.Parse(score_X.Text);
+                    plus_one = int.Parse(score_O.Text);
                     score_O.Text = Convert.ToString(plus_one + 1);
                 enable_false();
             }
@@ -151,7 +151,7 @@ namespace Tic_Tac_Toe
                     button4.BackColor = Color.PowderBlue;
                     button7.BackColor = Color.PowderBlue;
                     MessageBox.Show(" The Winner Is Player O");
-                    plus_one = int.Parse(score_X.Text);
+                    plus_one = int.Parse(score_O.Text);
                     score_O.Text = Convert.ToString(plus_one + 1);
                 enable_false();
             }
@@ -161,7 +161,7 @@ namespace Tic_Tac_Toe
                     button5.BackColor = Color.PowderBlue;
                     button8.BackColor = Color.PowderBlue;
                     MessageBox.Show(" The Winner Is Player O");
-                    plus_one = int.Parse(score_X.Text);
+                    plus_one = int.Parse(score_O.Text);
                     score_O.Text = Convert.ToString(plus_one + 1);
                 enable_false();
             }
@@ -171,7 +171,7 @@ namespace Tic_Tac_Toe
                     button6.BackColor = Color.PowderBlue;
                     button9.BackColor = Color.PowderBlue;
                     MessageBox.Show(" The Winner Is Player O");
-                    plus_one = int.Parse(score_X.Text);
+                    plus_one = int.Parse(score_O.Text);
                     score_O.Text = Convert.ToString(plus_one + 1);
                 enable_false();
             }
@@ -182,7 +182,7 @@ namespace Tic_Tac_Toe
                     button5.BackColor = Color.PowderBlue;
                     button9.BackColor = Color.PowderBlue;
                     MessageBox.Show(" The Winner Is Player O");
-                    plus_one = int.Parse(score_X.Text);
+                    plus_one = int.Parse(score_O.Text);
                     score_O.Text = Convert.ToString(plus_one + 1);
                 enable_false();
             }
@@ -192,7 +192,7 @@ namespace Tic_Tac_Toe
                     button5.BackColor = Color.PowderBlue;
                     button7.BackColor = Color.PowderBlue;
                     MessageBox.Show(" The Winner Is Player O");
-                    plus_one = int.Parse(score_X.Text);
+                    plus_one = int.Parse(score_O.Text);
                     score_O.Text = Convert.ToString(plus_one + 1);
                 enable_false();
             }

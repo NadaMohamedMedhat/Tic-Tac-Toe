@@ -227,139 +227,30 @@ namespace Tic_Tac_Toe
         }
 
         //*************************((Buttons))**********************************
-        private void button1_Click(object sender, EventArgs e) {
+               private void TempButton_Click(Button TempButton)
+        {
             if (checker == false)
             {
-                button1.Text = "X";
+                TempButton.Text = "X";
                 checker = true;
             }
             else
             {
-                button1.Text = "O";
+                TempButton.Text = "O";
                 checker = false;
             }
             score();
-            button1.Enabled = false;
+            TempButton.Enabled = false;
         }
-        private void button2_Click(object sender, EventArgs e){
-            {
-                if (checker == false)
-                {
-                    button2.Text = "X";
-                    checker = true;
-                }
-                else
-                {
-                    button2.Text = "O";
-                    checker = false;
-                }
-                score();
-                button2.Enabled = false;
-            }
-        }
-        private void button3_Click(object sender, EventArgs e) {
-            {
-                if (checker == false)
-                {
-                    button3.Text = "X";
-                    checker = true;
-                }
-                else
-                {
-                    button3.Text = "O";
-                    checker = false;
-                }
-                score();
-                button3.Enabled = false;
-            }
-        }
-        private void button4_Click(object sender, EventArgs e){
-            if (checker == false)
-            {
-                button4.Text = "X";
-                checker = true;
-            }
-            else
-            {
-                button4.Text = "O";
-                checker = false;
-            }
-            score();
-            button4.Enabled = false;
-        }
-        private void button5_Click(object sender, EventArgs e) {
-            {
-                if (checker == false)
-                {
-                    button5.Text = "X";
-                    checker = true;
-                }
-                else
-                {
-                    button5.Text = "O";
-                    checker = false;
-                }
-                score();
-                button5.Enabled = false;
-            }
-        }
-        private void button6_Click(object sender, EventArgs e) { 
-        
-            if (checker == false)
-            {
-                button6.Text = "X";
-                checker = true;
-            }
-            else
-            {
-                button6.Text = "O";
-                checker = false;
-            }
-            score();
-            button6.Enabled = false;
-        }
-        private void button7_Click(object sender, EventArgs e){
-            if (checker == false)
-            {
-                button7.Text = "X";
-                checker = true;
-            }
-            else
-            {
-                button7.Text = "O";
-                checker = false;
-            }
-            score();
-            button7.Enabled = false;
-        }
-        private void button8_Click(object sender, EventArgs e) {
-            if (checker == false)
-            {
-                button8.Text = "X";
-                checker = true;
-            }
-            else
-            {
-                button8.Text = "O";
-                checker = false;
-            }
-            score();
-            button8.Enabled = false;
-        }
-        private void button9_Click(object sender, EventArgs e){
-            if (checker == false)
-            {
-                button9.Text = "X";
-                checker = true;
-            }
-            else
-            {
-                button9.Text = "O";
-                checker = false;
-            }
-            score();
-            button9.Enabled = false;
-        }
+        private void button1_Click(object sender, EventArgs e) => TempButton_Click(button1);
+        private void button2_Click(object sender, EventArgs e) => TempButton_Click(button2);
+        private void button3_Click(object sender, EventArgs e) => TempButton_Click(button3);
+        private void button4_Click(object sender, EventArgs e) => TempButton_Click(button4);
+        private void button5_Click(object sender, EventArgs e) => TempButton_Click(button5);
+        private void button6_Click(object sender, EventArgs e) => TempButton_Click(button6);
+        private void button7_Click(object sender, EventArgs e) => TempButton_Click(button7);
+        private void button8_Click(object sender, EventArgs e) => TempButton_Click(button8);
+        private void button9_Click(object sender, EventArgs e) => TempButton_Click(button9);
 
         //*******************((New Game & Reset))***************************
         private void btn_newgame_Click(object sender, EventArgs e)

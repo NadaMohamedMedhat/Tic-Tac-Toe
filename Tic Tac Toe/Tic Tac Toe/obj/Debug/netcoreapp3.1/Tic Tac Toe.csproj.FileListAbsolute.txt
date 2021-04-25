@@ -1,0 +1,30 @@
+C:\Users\NADA\Desktop\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.exe
+C:\Users\NADA\Desktop\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.deps.json
+C:\Users\NADA\Desktop\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.runtimeconfig.json
+C:\Users\NADA\Desktop\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.runtimeconfig.dev.json
+C:\Users\NADA\Desktop\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.dll
+C:\Users\NADA\Desktop\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.pdb
+C:\Users\NADA\Desktop\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.csprojAssemblyReference.cache
+C:\Users\NADA\Desktop\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic_Tac_Toe.Form1.resources
+C:\Users\NADA\Desktop\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.csproj.GenerateResource.cache
+C:\Users\NADA\Desktop\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\NADA\Desktop\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\NADA\Desktop\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\NADA\Desktop\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.dll
+C:\Users\NADA\Desktop\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.pdb
+C:\Users\NADA\Desktop\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.genruntimeconfig.cache
+E:\Modren Academy\year 3\part 2\Data Stroage\Assignment 1\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.exe
+E:\Modren Academy\year 3\part 2\Data Stroage\Assignment 1\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.deps.json
+E:\Modren Academy\year 3\part 2\Data Stroage\Assignment 1\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.runtimeconfig.json
+E:\Modren Academy\year 3\part 2\Data Stroage\Assignment 1\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.runtimeconfig.dev.json
+E:\Modren Academy\year 3\part 2\Data Stroage\Assignment 1\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.dll
+E:\Modren Academy\year 3\part 2\Data Stroage\Assignment 1\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.pdb
+E:\Modren Academy\year 3\part 2\Data Stroage\Assignment 1\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.csprojAssemblyReference.cache
+E:\Modren Academy\year 3\part 2\Data Stroage\Assignment 1\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic_Tac_Toe.Form1.resources
+E:\Modren Academy\year 3\part 2\Data Stroage\Assignment 1\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.csproj.GenerateResource.cache
+E:\Modren Academy\year 3\part 2\Data Stroage\Assignment 1\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.AssemblyInfoInputs.cache
+E:\Modren Academy\year 3\part 2\Data Stroage\Assignment 1\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.AssemblyInfo.cs
+E:\Modren Academy\year 3\part 2\Data Stroage\Assignment 1\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.csproj.CoreCompileInputs.cache
+E:\Modren Academy\year 3\part 2\Data Stroage\Assignment 1\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.dll
+E:\Modren Academy\year 3\part 2\Data Stroage\Assignment 1\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.pdb
+E:\Modren Academy\year 3\part 2\Data Stroage\Assignment 1\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.genruntimeconfig.cache
